@@ -1,17 +1,17 @@
-###  Olympic History Data Analysis
+## Olympic History Data Analysis
 
 
-### Project Overview
+## Project Overview
   - The Olympics History Data Analysis proejct aims to unconver valuable insights by analyzing historical data related to the olympic games. By exploring this dataset, we will draw data-driven conclusions that provides us an insight on various aspects of Olympic Games throughout history.
 
-# About the dataset
+## About the dataset
 
 
 
-# Objective:
+## Objective:
 
 
-# Folder Structure:
+## Folder Structure:
 olympic-history-analysis/
 │
 ├── sql_queries.py
