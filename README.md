@@ -25,7 +25,9 @@ Medal - Gold, Silver, Bronze, or NA
   notes: any notes about the events
   
 ## Objective:
-- The data can be obtained or downloaded from https://www.kaggle.com/datasets/heesoo37/120-years-of-olympic-history-athletes-and-results. This is a historical dataset provides a comprehensive historical overview, spanning from Athens 1896 to Rio 2016. The dataset was originally obtained from  www.sports-reference.com .
+- The objective of the project is to analyze historical data from the modern Olympic Games.
+-  The goal of this project  is to look at historical data from the current Olympic Games. Using the ETL and schema construction tools create_tables.py and etl.py, a PostgreSQL database is created and filled in this process. Moreover, the Jupyter Notebook examination.Using techniques of methodical research and visualization, ipynb makes it simpler to extract significant information about Olympic history from the dataset by providing SQL queries for finding patterns and trends.
+  
 ## Folder Structure:
 olympic-history-analysis/
 │
